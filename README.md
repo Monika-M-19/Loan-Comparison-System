@@ -24,7 +24,6 @@ The project uses **Tkinter** for the graphical user interface, **SQLite** for st
 
 ## Project Structure
 
-```text
 Loan-Comparison-System/
 │
 ├── calculator.py
@@ -36,28 +35,37 @@ Loan-Comparison-System/
 ├── LoanComparisonSystem.spec
 └── README.md
 
-How to Run
+## How to Run
+
 1. Clone the repository:
 git clone https://github.com/Monika-M-19/Loan-Comparison-System.git
-2. Open the project folder:
+
+3. Open the project folder:
 cd Loan-Comparison-System
-3. Run the application:
+
+5. Run the application:
 python main.py
+
 Optional: Build Executable
+
 If you want to create an executable file, run:
 build_exe.bat
+
 The executable build files are generated separately and are not required to run the Python source code.
-Purpose
+
+## Purpose
+
 This project was created to compare loan options and understand how Python can be used to build desktop applications with database support and data visualization.
 It helped me practice GUI development, database handling, calculation logic, and chart generation using Python.
-Future Improvements
+
+## Future Improvements
 - Add more loan comparison filters
 - Improve the user interface design
 - Add report export options
 - Add input validation messages
 - Add more chart types for better loan analysis
-Author
+
+## Author
 Monika M
 MCA Student
 
-```text
