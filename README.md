@@ -23,7 +23,7 @@ The project uses **Tkinter** for the graphical user interface, **SQLite** for st
 - PyInstaller
 
 ## Project Structure
-
+```text
 Loan-Comparison-System/
 │
 ├── calculator.py
@@ -34,6 +34,7 @@ Loan-Comparison-System/
 ├── build_exe.bat
 ├── LoanComparisonSystem.spec
 └── README.md
+```text
 
 ## How to Run
 
