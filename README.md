@@ -23,7 +23,7 @@ The project uses **Tkinter** for the graphical user interface, **SQLite** for st
 - PyInstaller
 
 ## Project Structure
-
+```text
 Loan-Comparison-System/
 │
 ├── calculator.py
@@ -34,18 +34,22 @@ Loan-Comparison-System/
 ├── build_exe.bat
 ├── LoanComparisonSystem.spec
 └── README.md
+```
 
 ## How to Run
 
 1. Clone the repository:
+```bash
 git clone https://github.com/Monika-M-19/Loan-Comparison-System.git
-
-3. Open the project folder:
+```
+2. Open the project folder:
+```bash
 cd Loan-Comparison-System
-
-5. Run the application:
+```
+3. Run the application:
+```bash
 python main.py
-
+```
 Optional: Build Executable
 
 If you want to create an executable file, run:
@@ -66,6 +70,6 @@ It helped me practice GUI development, database handling, calculation logic, and
 - Add more chart types for better loan analysis
 
 ## Author
-Monika M
+Monika M -
 MCA Student
 
