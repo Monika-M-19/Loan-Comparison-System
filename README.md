@@ -27,6 +27,7 @@ The project uses **Tkinter** for the graphical user interface, **SQLite** for st
 Loan-Comparison-System/
 │
 ├── calculator.py
+
 ├── charts.py
 ├── db.py
 ├── main.py
@@ -34,7 +35,6 @@ Loan-Comparison-System/
 ├── build_exe.bat
 ├── LoanComparisonSystem.spec
 └── README.md
-```text
 
 ## How to Run
 
